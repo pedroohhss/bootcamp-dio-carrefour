@@ -9,4 +9,6 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 
 #### Desafios com IF em Java
 
-**FAZENDO**
+<p align="left">
+  <img width="200" height="100" src="src/assets/GIF loading.gif">
+</p>
