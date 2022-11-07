@@ -18,5 +18,15 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 ### Conhecendo a síntaxe do C#
 
 <p align="left">
+  <a href="DIO-CSHARP/src/Desafio.cs">C#</a>
+</p>
+
+OBS.: Não estava conseguindo rodar o arquivo junto com todo repositório aberto, então abri a pasta apenas do repositório dele e foi, se alguém souber como resolver e puder me auxiliar como ajeitar isto, agradeço
+
+***Concluido***
+
+### Funções na prática JavaScript
+
+<p align="left">
   <img width="200" height="100" src="src/assets/GIF loading.gif">
 </p>
