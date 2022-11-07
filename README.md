@@ -9,10 +9,13 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 
 ### Desafios com IF em Java
 
+<p align="left">
+  <a href="DIO-primeiros-ifs-com-java/src/Desafio.java">If em Java</a>
+</p>
+
 ***Concluido***
 
-<p align="left">
-  <a href="URL">If em Java</a>
+### Conhecendo a síntaxe do C#
 
 <p align="left">
   <img width="200" height="100" src="src/assets/GIF loading.gif">
