@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-C#\\DIO-C#.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-CSHARP\\DIO-C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-C#\\DIO-C#.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-CSHARP\\DIO-C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-C#\\DIO-C#.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-CSHARP\\DIO-C#.csproj",
         "projectName": "DIO-C#",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-C#\\DIO-C#.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-CSHARP\\DIO-C#.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-C#\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Eclipse\\DIO\\bootcamp-dio-carrefour\\DIO-CSHARP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
