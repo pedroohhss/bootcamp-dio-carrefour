@@ -7,15 +7,15 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 
 ### Aula 01
 
-### Desafios com IF em Java
+### Java
 
 <p align="left">
-  <a href="DIO-primeiros-ifs-com-java/src/Desafio.java">If em Java</a>
+  <a href="DIO-Java/src/Desafio.java">If em Java</a>
 </p>
 
 ***Concluido***
 
-### Conhecendo a síntaxe do C#
+### C#
 
 <p align="left">
   <a href="DIO-CSHARP/src/Desafio.cs">C#</a>
@@ -25,7 +25,15 @@ OBS.: Não estava conseguindo rodar o arquivo junto com todo repositório aberto
 
 ***Concluido***
 
-### Funções na prática JavaScript
+### JavaScript
+
+<p align="left">
+  <a href="DIO-JS/Desafio.js">JavaScript</a>
+</p>
+
+***Concluido***
+
+### Python
 
 <p align="left">
   <img width="200" height="100" src="src/assets/GIF loading.gif">
