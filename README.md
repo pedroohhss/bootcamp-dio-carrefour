@@ -36,5 +36,11 @@ OBS.: Não estava conseguindo rodar o arquivo junto com todo repositório aberto
 ### Python
 
 <p align="left">
+  <a href="DIO-Python\Desafio.py">Código Python</a>
+</p>
+
+### Kotlin
+
+<p align="left">
   <img width="200" height="100" src="src/assets/GIF loading.gif">
 </p>
