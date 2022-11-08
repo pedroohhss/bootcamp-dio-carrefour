@@ -10,7 +10,7 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 ### Java
 
 <p align="left">
-  <a href="DIO-Java/src/Desafio.java">If em Java</a>
+  <a href="DIO-Java/src/Desafio.java">Java</a>
 </p>
 
 ***Concluido***
