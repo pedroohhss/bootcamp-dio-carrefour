@@ -10,7 +10,7 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 ### Java
 
 <p align="left">
-  <a href="DIO-Java/src/Desafio.java">Java</a>
+  <a href="DIO-Java/src/Desafio.java">Código Java</a>
 </p>
 
 ***Concluido***
@@ -18,7 +18,7 @@ A cada aula/desafios que eu for realizando durante o bootcamp estarei colocando 
 ### C#
 
 <p align="left">
-  <a href="DIO-CSHARP/src/Desafio.cs">C#</a>
+  <a href="DIO-CSHARP/src/Desafio.cs">Código C#</a>
 </p>
 
 OBS.: Não estava conseguindo rodar o arquivo junto com todo repositório aberto, então abri a pasta apenas do repositório dele e foi, se alguém souber como resolver e puder me auxiliar como ajeitar isto, agradeço
@@ -28,7 +28,7 @@ OBS.: Não estava conseguindo rodar o arquivo junto com todo repositório aberto
 ### JavaScript
 
 <p align="left">
-  <a href="DIO-JS/Desafio.js">JavaScript</a>
+  <a href="DIO-JS/Desafio.js">Código JavaScript</a>
 </p>
 
 ***Concluido***
